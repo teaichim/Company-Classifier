@@ -1,0 +1,221 @@
+label,label_norm
+Agricultural Equipment Services,agricultur equip servic
+Soil Nutrient Application Services,soil nutrient applic servic
+Pesticide Application Services,pesticid applic servic
+Ornamental Plant Nurseries,ornament plant nurseri
+Landscaping Services,landscap servic
+Gardening Services,garden servic
+Tree Services - Pruning / Removal,tree servic prune remov
+Veterinary Services,veterinari servic
+Veterinary Clinics,veterinari clinic
+Pet Boarding Services,pet board servic
+Animal Day Care Services,anim day care servic
+Pet Grooming Services,pet groom servic
+Animal Training Services,anim train servic
+Veterinary Health Centers,veterinari health center
+Animal Trainers,anim trainer
+Livestock Dealer Services,livestock dealer servic
+Timber Harvesting Operations,timber harvest oper
+Fishing and Hunting Services,fish hunt servic
+Well Maintenance Services,well mainten servic
+Field Welding Services,field weld servic
+Sand and Gravel Mining,sand gravel mine
+Residential Driveway Construction,residenti driveway construct
+Commercial Driveway Construction,commerci driveway construct
+Fencing Construction Services,fenc construct servic
+Sidewalk Construction Services,sidewalk construct servic
+Commercial Irrigation Systems,commerci irrig system
+Residential Drainage Systems,residenti drainag system
+Residential Snow Removal,residenti snow remov
+Commercial Snow Removal,commerci snow remov
+General Snow Removal Services,gener snow remov servic
+Land Leveling Services,land level servic
+Residential Drain Cleaning,residenti drain clean
+Commercial Drain Cleaning,commerci drain clean
+Street Cleaning Operations,street clean oper
+Conveyor System Installation,conveyor system instal
+Low-Rise Signage Installation,lowris signag instal
+High-Rise Signage Installation,highris signag instal
+Tank Installation Services,tank instal servic
+Residential Communication Equipment Installation,residenti commun equip instal
+Commercial Communication Equipment Installation,commerci commun equip instal
+Low-Rise Glass Installation,lowris glass instal
+High-Rise Glass Installation,highris glass instal
+Industrial Machinery Installation,industri machineri instal
+Agricultural Machinery Installation,agricultur machineri instal
+Grain Handling Machinery Installation,grain handl machineri instal
+Dock and Pier Construction,dock pier construct
+Road and Highway Construction,road highway construct
+Road Maintenance Services,road mainten servic
+Pipeline Construction Services,pipelin construct servic
+New Ground Pipeline Installation,new ground pipelin instal
+Excavation Services,excav servic
+Residential Plumbing Services,residenti plumb servic
+Commercial Plumbing Services,commerci plumb servic
+Industrial Plumbing Services,industri plumb servic
+Boiler Installation Services,boiler instal servic
+Boiler Repair Services,boiler repair servic
+Steam Services,steam servic
+Gas Installation Services,ga instal servic
+Medical Gas Installation Services,medic ga instal servic
+Fire Protection System Services,fire protect system servic
+HVAC Installation and Service,hvac instal servic
+HVAC Inspections,hvac inspect
+Air Duct Cleaning Services,air duct clean servic
+Water Treatment Services,water treatment servic
+Residential Electrical Services,residenti electr servic
+Commercial Electrical Services,commerci electr servic
+Alarm Installation Services,alarm instal servic
+Electric Line Construction,electr line construct
+Cable Installation Services,cabl instal servic
+Elevator Installation Services,elev instal servic
+Low-Rise Foundation Construction,lowris foundat construct
+High-Rise Foundation Construction,highris foundat construct
+Precast Concrete Installation,precast concret instal
+Tilt-Up Concrete Services,tiltup concret servic
+Masonry Construction Services,masonri construct servic
+Drywall Services,drywal servic
+Tile Installation Services,tile instal servic
+Carpentry Services,carpentri servic
+Millwork Services,millwork servic
+General Handyman Services,gener handyman servic
+Insulation Services,insul servic
+Painting Services,paint servic
+Spray Painting Services,spray paint servic
+Flooring Installation Services,floor instal servic
+Interior Design Services,interior design servic
+Home Staging Services,home stage servic
+Sheet Metal Services,sheet metal servic
+Welding Services,weld servic
+Structural Steel Erection,structur steel erect
+Non-Structural Steel Fabrication,nonstructur steel fabric
+Windows and Doors Installation,window door instal
+Well Drilling Services,well drill servic
+Directional Drilling Services,direct drill servic
+Infrastructure Excavation,infrastructur excav
+New Ground Excavation,new ground excav
+Residential Roofing Services,residenti roof servic
+Roofing Services with Heat Application,roof servic heat applic
+Waterproofing Services,waterproof servic
+Septic System Services,septic system servic
+Building Cleaning Services,build clean servic
+Fire Safety Equipment Services,fire safeti equip servic
+Testing and Inspection Services,test inspect servic
+Single Family Residential Construction,singl famili residenti construct
+Single Family Renovation Services,singl famili renov servic
+Multi-Family Construction Services,multifamili construct servic
+Apartment Renovation Services,apart renov servic
+Restoration Services,restor servic
+Mobile Home Construction Services,mobil home construct servic
+Commercial Construction Services,commerci construct servic
+Commercial Renovation Services,commerci renov servic
+Swimming Pool Installation Services,swim pool instal servic
+Swimming Pool Maintenance Services,swim pool mainten servic
+Vacant Building Management,vacant build manag
+Vacant Land Services,vacant land servic
+Meat Processing Services,meat process servic
+Seafood Processing Services,seafood process servic
+Dairy Production Services,dairi product servic
+Frozen Food Processing,frozen food process
+Ice Production Services,ice product servic
+Canning Services,canning servic
+Animal Feed Manufacturing,anim feed manufactur
+Pet Food Manufacturing,pet food manufactur
+Grain Processing Services,grain process servic
+Coffee Processing Services,coffe process servic
+Seed Processing Services,seed process servic
+Bakery Production Services,bakeri product servic
+Confectionery Manufacturing,confectioneri manufactur
+Distilling Services,distil servic
+Brewery Operations,breweri oper
+Non-Alcoholic Beverage Manufacturing,nonalcohol beverag manufactur
+Oil and Fat Manufacturing,oil fat manufactur
+Rendering Services,render servic
+Textile Manufacturing Services,textil manufactur servic
+Carpet Manufacturing Services,carpet manufactur servic
+Apparel Manufacturing,apparel manufactur
+Accessory Manufacturing,accessori manufactur
+Children's Clothing Manufacturing,children' cloth manufactur
+Window Treatment Manufacturing,window treatment manufactur
+Canvas Manufacturing,canva manufactur
+Rope Production Services,rope product servic
+Tent Manufacturing Services,tent manufactur servic
+Wood Product Manufacturing,wood product manufactur
+Window and Door Manufacturing,window door manufactur
+Cabinetry Manufacturing,cabinetri manufactur
+Trim Manufacturing,trim manufactur
+Pallet Manufacturing,pallet manufactur
+Furniture Manufacturing,furnitur manufactur
+Bedding Manufacturing,bed manufactur
+Paper Production Services,paper product servic
+Stationery Manufacturing,stationeri manufactur
+Publishing Services,publish servic
+Printing Services,print servic
+Gas Manufacturing Services,ga manufactur servic
+Ink Production Services,ink product servic
+Plastic Manufacturing,plastic manufactur
+Cosmetic Manufacturing,cosmet manufactur
+Soap Production Services,soap product servic
+Chemical Manufacturing,chemic manufactur
+Asphalt Production Services,asphalt product servic
+Rubber Manufacturing,rubber manufactur
+Plastic Signage Production,plastic signag product
+Media Production Services,media product servic
+Software Manufacturing,softwar manufactur
+Food Processing Services,food process servic
+Pharmaceutical Manufacturing,pharmaceut manufactur
+Laboratory Services,laboratori servic
+Waste Management Services,wast manag servic
+Recycling Services,recycl servic
+Environmental Consulting,environment consult
+Property Management Services,properti manag servic
+Real Estate Services,real estat servic
+Insurance Services,insur servic
+Financial Services,financi servic
+Legal Services,legal servic
+Consulting Services,consult servic
+Marketing Services,market servic
+Human Resources Services,human resourc servic
+Management Consulting,manag consult
+Business Development Services,busi develop servic
+Project Management Services,project manag servic
+Technology Consulting,technolog consult
+Software Development Services,softwar develop servic
+Data Analysis Services,data analysi servic
+Market Research Services,market research servic
+Strategic Planning Services,strateg plan servic
+Training Services,train servic
+Public Relations Services,public relat servic
+Event Planning Services,event plan servic
+Catering Services,cater servic
+Travel Services,travel servic
+Digital Marketing Services,digit market servic
+E-Commerce Services,ecommerc servic
+Online Marketing Services,onlin market servic
+Content Creation Services,content creation servic
+Website Development Services,websit develop servic
+SEO Services,seo servic
+Social Media Services,social media servic
+Branding Services,brand servic
+Graphic Design Services,graphic design servic
+Advertising Services,advertis servic
+Corporate Training Services,corpor train servic
+Health and Safety Consulting,health safeti consult
+Food Safety Services,food safeti servic
+Quality Assurance Services,qualiti assur servic
+Compliance Services,complianc servic
+Environmental Health Services,environment health servic
+Risk Assessment Services,risk assess servic
+Crisis Management Services,crisi manag servic
+Community Engagement Services,commun engag servic
+Stakeholder Services,stakehold servic
+Corporate Responsibility Services,corpor respons servic
+Fundraising Services,fundrais servic
+Volunteer Services,volunt servic
+Non-Profit Management,nonprofit manag
+Arts Services,art servic
+Sports Management Services,sport manag servic
+Fitness Coaching,fit coach
+Health Promotion Services,health promot servic
+Physical Therapy Services,physic therapi servic
+Occupational Health Services,occup health servic
